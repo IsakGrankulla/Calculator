@@ -1,0 +1,38 @@
+form {
+    text-align: center;
+}
+
+html {
+    background-color: darkblue;
+}
+
+h1 {
+    color: lightcyan;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
+}
+
+input {
+    border-radius: 15px;
+    background-color: darkblue;
+    color: lightcyan;
+    font-size: 35px;
+}
+
+label {
+    font-size: 30px;
+    color: lightcyan;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+button {
+    font-size: 20px;
+    border-radius: 5px;
+    color: darkblue;
+}
+
+#result {
+    color: lightblue;
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
