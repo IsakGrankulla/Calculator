@@ -18,7 +18,7 @@ function Add(event) {
     if (number1 + number2) {
         result.innerHTML = sum;
     } else if (sum = 0) {
-        result.innerHTML = "bruh, seriously?";
+        result.innerHTML = "0";
     } else {
         console.log(event);
         alert("Please type a number");
