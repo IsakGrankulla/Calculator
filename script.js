@@ -34,7 +34,7 @@ function sub(event) {
     if (number1 - number2) {
         result.innerHTML = sum;
     } else if (sum === 0) {
-        result.innerHTML = "bruh, really?";
+        result.innerHTML = "0";
     } else {
         isNaN
         console.log(event);
